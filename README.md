@@ -1,5 +1,5 @@
 # just-use-a-stack-bro
-the stupidest way to evaluate postfix expressions ever.
+the stupidest way to evaluate prefix expressions ever.
 
 
 the problem statement:
